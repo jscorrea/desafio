@@ -4,7 +4,7 @@ Para o teste é necessário:
 
 **POSTMAN** (https://www.postman.com/downloads/)<br/>
 **Visual Studio 2019**<br/>
-**SQLSERVER 2019**<br/>
+**SQLServer 2019**<br/>
 
 <b>PACOTES NUGET</b><br/>
 Install-Package Microsoft.VisualStudio.Web.CodeGeneration.Design -Version 3.1.0<br/>
